@@ -1,7 +1,0 @@
-E:TR
-R:ATR,@
-T:FY
-Y:MFY,@
-F:(E),i
-A:+,-
-M:*,/

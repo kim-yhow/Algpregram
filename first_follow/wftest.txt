@@ -1,3 +1,0 @@
-S:i(C)SQ,a
-Q:eS,@
-C:b

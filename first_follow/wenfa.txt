@@ -1,1 +1,0 @@
-E:TA A:+TA,@ T:FB B:*FB,@ F:(E),i
