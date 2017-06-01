@@ -1,6 +1,2 @@
-# Algpregram
-思路：
-1.通过求得给定文法的算符文法，对文法进行分析，然后求出该文法每个非终界符的firstVT和lastVT
-2.通过求出的firstVT和lastVT得到终结符的优先级
-3.通过优先级，对输入的算式进行分析，判断是否合法
- 
+# first-follow
+first 和follow集 编译原理作业
